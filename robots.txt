@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /contacts
+Disallow: /reestrpassportov
+Disallow: /docs/smi1.pdf
+Disallow: /docs/reestr.doc
+Disallow: /docs/reestr_chlenov.doc
+Disallow: /reestrpassportov
+Disallow: /sro61.ru/docs/reestr_chlenov.doc
+
+
+Sitemap: http://sro61.ru/sitemap.xml
