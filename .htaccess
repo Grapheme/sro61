@@ -7,8 +7,8 @@ php_value upload_max_filesize 10M
 RewriteEngine On
 RewriteBase /
 
-RewriteCond %{HTTP_HOST} ^www.sro61$ [NC]
-RewriteRule ^(.*)$ http://sro61/$1 [R=301,NC,L]
+RewriteCond %{HTTP_HOST} ^www.sro61.ru$ [NC]
+RewriteRule ^(.*)$ http://sro61.ru/$1 [R=301,NC,L]
 
 RewriteCond $1 !^(index\.php|images|robots\.txt|public)
 RewriteCond %{REQUEST_URI} !\.(css│js│jpg│gif)$
