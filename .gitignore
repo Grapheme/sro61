@@ -1,5 +1,6 @@
 .DS_Store
 
+.idea/*
 docs/*
 webstat/*
 
@@ -11,3 +12,7 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 .project
+
+application/config/config.php
+application/config/database.php
+.htaccess
