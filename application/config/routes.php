@@ -2,7 +2,8 @@
 
 $route['default_controller'] = "users_interface";
 $route['404_override'] = '';
-
+/******************************************************** GIT INTRERFACE **************************************************/
+$route['git-deploy/:any'] = "git_interface/gitDeployProject";
 /************************************************** CLIENT INTRERFACE ***********************************************/
 
 $route['cabinet/profile']			= "clients_interface/profile";
