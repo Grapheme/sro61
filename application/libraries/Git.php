@@ -14,7 +14,7 @@
 class Git {
 	
 	private $CI;
-	
+
 	protected $test_mode;
 	protected $post;
 	
@@ -36,7 +36,7 @@ class Git {
 	}
 	
 	public function init($params){
-		
+
 		$this->test_mode = isset($params['test_mode']) ? $params['test_mode'] : FALSE;
 		$this->git_path = isset($params['git_path']) ? $params['git_path'] : '/usr/local/bin/git';
 		

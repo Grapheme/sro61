@@ -22,7 +22,7 @@ class Git_interface extends MY_Controller {
 		$config['repository_id'] = 21268515;
 		$config['user_group'] = 'rikardo';
 		$config['user_name'] = 'rikardo';
-		$config['set_log'] = FALSE;
+		$config['set_log'] = TRUE;
 		
 		$this->load->library('git');
 		$this->git->init($config);
