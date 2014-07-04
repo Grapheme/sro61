@@ -19,7 +19,7 @@ class Git_interface extends MY_Controller {
 		$config['remote'] = 'origin';
 		$config['branch'] = $this->uri->segment(2);
 		$config['repository_name'] = 'sro61';
-		$config['repository_id'] = 2532862;
+		$config['repository_id'] = 21268515;
 		$config['user_group'] = 'rikardo';
 		$config['user_name'] = 'rikardo';
 		$config['set_log'] = FALSE;
