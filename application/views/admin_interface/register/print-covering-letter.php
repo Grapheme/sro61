@@ -78,10 +78,10 @@
 					<table class="table no-border times">
 						<tbody>
 							<tr>
-<!--								<td width="78%">С уважением,<br/>Директор</td>-->
-							<td width="78%">С уважением,<br/>И.о. директора</td>
-<!--							<td width="22%" class="sign padding"><em>Л.К. Евкина</em></td>-->
-							<td width="22%" class="sign padding"><em>А.А. Абдулаева</em></td>
+								<td width="78%">С уважением,<br/>Директор</td>
+<!--							<td width="78%">С уважением,<br/>И.о. директора</td>-->
+							    <td width="22%" class="sign padding"><em>Л.К. Евкина</em></td>
+<!--							<td width="22%" class="sign padding"><em>А.А. Абдулаева</em></td>-->
 							</tr>
 						</tbody>
 					</table>

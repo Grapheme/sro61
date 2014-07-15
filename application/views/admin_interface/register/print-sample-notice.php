@@ -57,11 +57,11 @@
 						<tbody>
 							<tr>
 								
-<!--								<td width="80%">Директор</td>-->
-<!--								<td width="20%" class="sign"><em>Л.К. Евкина</em></td>-->
+								<td width="80%">Директор</td>
+								<td width="20%" class="sign"><em>Л.К. Евкина</em></td>
 
-								<td width="80%">И.о. директора</td>
-								<td width="20%" class="sign"><em>А.А. Абдулаева</em></td>
+<!--								<td width="80%">И.о. директора</td>-->
+<!--								<td width="20%" class="sign"><em>А.А. Абдулаева</em></td>-->
 							</tr>
 						</tbody>
 					</table>
