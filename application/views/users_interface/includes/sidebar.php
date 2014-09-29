@@ -4,6 +4,7 @@
 		<li><?=anchor('news','Новости',array('title'=>'Новости'));?></li>
 		<li><?=anchor('documents-for-entry','Документы для вступления',array('title'=>'Документы для вступления'));?></li>
 		<li><?=anchor('legislation','Законодательство',array('title'=>'Законодательство'));?></li>
+		<li><?=anchor('energoservice','Энергосервис',array('title'=>'Энергосервис'));?></li>
 		<li><?=anchor('education','Обучение',array('title'=>'Обучение'));?></li>
 		<li><?=anchor('builders-and-designers','Строителям и проектировщикам',array('title'=>'Строителям и проектировщикам'));?></li>
 		<li><?=anchor('equipment-rental','Аренда оборудования',array('title'=>'Аренда оборудования'));?></li>

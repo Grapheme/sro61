@@ -113,7 +113,7 @@ class Users_interface extends MY_Controller {
 	public function pages($page_url = ''){
 		
 		$page_data = $this->mdpages->read_fields_url($page_url,'*','pages');
-		
+
 		if(!$page_data):
 			show_404();
 		endif;
