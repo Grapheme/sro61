@@ -23,7 +23,7 @@
 				<h2> 2014 год </h2>
 				<p><strong>01 сентября 2014</strong></p>
 				<ul>
-					<li><a href="http://sro61.ru/docs/2014/reg_01.09.14" target="_blank">PDF-файл</a> со списком паспортов</li>
+					<li><a href="http://sro61.ru/docs/2014/reg_01.09.14.pdf" target="_blank">PDF-файл</a> со списком паспортов</li>
 				</ul>
                 <p><strong>14 августа 2014</strong></p>
 				<ul>
