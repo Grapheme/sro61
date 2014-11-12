@@ -22,9 +22,12 @@
                 <ul>
                     <li><a href="http://sro61.ru/docs/2014/reg_13.10.14.pdf" target="_blank">PDF-файл</a> со списком паспортов</li>
                 </ul>
+                <p><strong>22 сентября 2014</strong></p>
+                <ul>
+                    <li><a href="http://sro61.ru/docs/2014/reg-22.09.14.pdf" target="_blank">PDF-файл</a> со списком паспортов</li>
+                </ul>
                 <p><strong>01 сентября 2014</strong></p>
                 <ul>
-                    <li><a href="http://sro61.ru/docs/2014/reg_01.09.14.pdf" target="_blank">PDF-файл</a> со списком паспортов</li>
                     <li><a href="http://sro61.ru/docs/2014/reg-01.09.14.pdf" target="_blank">PDF-файл</a> со списком паспортов</li>
                 </ul>
                 <p><strong>14 августа 2014</strong></p>
